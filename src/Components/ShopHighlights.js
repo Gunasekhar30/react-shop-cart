@@ -1,5 +1,6 @@
 import React from 'react'
-
+import Shooping from './shooping1.jpg'
+import shooping2 from './shooping2.jpg'
 import ShoopingImg from './Shooping.jpg'
 
 function ShopHighlights() {
